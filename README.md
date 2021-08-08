@@ -8,7 +8,7 @@ example: Ariel_University+12.6@gmail.com.
 Take a look at our video that represents the user side: https://www.youtube.com/watch?v=hXYRmv0WJvY.
 
 ###Display
-Please look at the Desciption_To_Download.pdf file 
+Please look at the E-Moodles Description How To Install.pdf file 
 
 
   
