@@ -16,9 +16,7 @@ In order for the script to run you should use Windows version 7 and up, install 
     notice that the IMAP and the POP are enabled on the settings.
 
   2.Download the script of the Plug-In. 
-  
   3. Change the mail address and the password on the script
-   
   4.Change the DB settings to your settings on the script .
   
   5.Add the script to the Task Scheduler: 
