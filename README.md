@@ -16,9 +16,12 @@ In order for the script to run you should use Windows version 7 and up, install 
     notice that the IMAP and the POP are enabled on the settings.
 
   2.Download the script of the Plug-In. 
+  
   3. Change the mail address and the password on the script
-  4.Change the DB settings to your settings on the script . as shown below:
-  5.Add the script to the Task Scheduler: 
+  4. 
+  5.Change the DB settings to your settings on the script .
+  
+  6.Add the script to the Task Scheduler: 
     Open up notepad, add this command, with your own attributes:
 	  "PATH_TO_PHP.EXE" -f "SCRIPT_TO_RUN.PHP"
     "PATH_TO_PHP.EXE" should be the path to the php.exe
