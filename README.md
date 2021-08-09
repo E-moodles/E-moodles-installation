@@ -37,8 +37,8 @@ In order for the script to run you should use Windows version 7 and up, install 
 This plugin includes support for the English and Hebrow language and has been tested for right-to-left (RTL) language support. 
 
 ### Features:
-sending forum messages from the user email account to all the group classes.
-Error reply email:in case of a student who is trying to send mail to the wrong course number ,an error message email is sent to the user .
+* sending forum messages from the user email account to all the group classes.
+* Error reply email:in case of a student who is trying to send mail to the wrong course number ,an error message email is sent to the user .
   reply to a specific message box in the forum from the user email.
 
 
