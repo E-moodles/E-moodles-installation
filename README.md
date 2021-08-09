@@ -7,7 +7,8 @@ The mail Address is mail that the specific university that connects the plug-in 
 example: Ariel_University+12.6@gmail.com.   
 Take a look at our video that represents the user side: https://www.youtube.com/watch?v=hXYRmv0WJvY.
 
-##Installation :
+### Installation :
+
 In order for the script to run you should use Windows version 7 and up, install php version 7.2 and up, and Moodle version 3.11 , also E-moodles use PHP-Mailer ,you should notice when you download the file there is a PHP-Mailer file as well.
 
 
@@ -29,16 +30,16 @@ In order for the script to run you should use Windows version 7 and up, install 
     Now go to the Actions tab, hit New and it should say 'Start a program' by default.
     Browse to the batch file that you just made, click OK and you're done.
 
-##Language Support
+### Language Support:
 This plugin includes support for the English and Hebrow language and has been tested for right-to-left (RTL) language support. 
 
-##Features
+### Features:
 sending forum messages from the user email account to all the group classes.
 Error reply email:in case of a student who is trying to send mail to the wrong course number ,an error message email is sent to the user .
 reply to a specific message box in the forum from the user email.
 
 
-###Display
+### Display
 Please look at the E-Moodles Description How To Install.pdf file 
 
 
