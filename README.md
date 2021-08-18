@@ -5,7 +5,7 @@ Develop by : Shani Shalel, Shirel Israelov and Shani Hayik.
 ### Overview  
 The mail Address is mail that the specific university that connects the plug-in is created,
 example: Ariel_University+12.6@gmail.com.   
-Take a look at our that show how to install and start E-Moodles plugin: https://www.youtube.com/watch?v=WevvPXTk13A 
+Take a look at our video that show how to install and start E-Moodles plugin: https://www.youtube.com/watch?v=WevvPXTk13A 
 Take a look at our video that represents the user side: https://www.youtube.com/watch?v=hXYRmv0WJvY.
 
 ### Installation :
